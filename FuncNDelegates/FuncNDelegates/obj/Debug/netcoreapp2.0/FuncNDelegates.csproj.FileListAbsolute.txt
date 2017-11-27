@@ -1,0 +1,11 @@
+F:\Poc\Core\FuncNDelegates\FuncNDelegates\bin\Debug\netcoreapp2.0\FuncNDelegates.deps.json
+F:\Poc\Core\FuncNDelegates\FuncNDelegates\bin\Debug\netcoreapp2.0\FuncNDelegates.runtimeconfig.json
+F:\Poc\Core\FuncNDelegates\FuncNDelegates\bin\Debug\netcoreapp2.0\FuncNDelegates.runtimeconfig.dev.json
+F:\Poc\Core\FuncNDelegates\FuncNDelegates\bin\Debug\netcoreapp2.0\FuncNDelegates.dll
+F:\Poc\Core\FuncNDelegates\FuncNDelegates\bin\Debug\netcoreapp2.0\FuncNDelegates.pdb
+F:\Poc\Core\FuncNDelegates\FuncNDelegates\obj\Debug\netcoreapp2.0\FuncNDelegates.csprojResolveAssemblyReference.cache
+F:\Poc\Core\FuncNDelegates\FuncNDelegates\obj\Debug\netcoreapp2.0\FuncNDelegates.csproj.CoreCompileInputs.cache
+F:\Poc\Core\FuncNDelegates\FuncNDelegates\obj\Debug\netcoreapp2.0\FuncNDelegates.AssemblyInfoInputs.cache
+F:\Poc\Core\FuncNDelegates\FuncNDelegates\obj\Debug\netcoreapp2.0\FuncNDelegates.AssemblyInfo.cs
+F:\Poc\Core\FuncNDelegates\FuncNDelegates\obj\Debug\netcoreapp2.0\FuncNDelegates.dll
+F:\Poc\Core\FuncNDelegates\FuncNDelegates\obj\Debug\netcoreapp2.0\FuncNDelegates.pdb

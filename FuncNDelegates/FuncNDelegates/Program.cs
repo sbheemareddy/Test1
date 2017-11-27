@@ -17,7 +17,7 @@ namespace FuncNDelegates
    
             Console.WriteLine("\n***************** Action<> Delegate Methods ***************\n");   
             printText();    //Parameter: 0 , Returns: nothing   
-            print("Srinivas Bheemareddy    ");  //Parameter: 1 , Returns: nothing   
+            print("Srinivas Bheemareddy");  //Parameter: 1 , Returns: nothing   
             printNumber(5, 20); //Parameter: 2 , Returns: nothing   
             Console.WriteLine();   
             Console.WriteLine("**************** Func<> Delegate Methods *****************\n");   
